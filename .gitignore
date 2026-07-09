@@ -1,0 +1,22 @@
+# Godot
+.godot/
+*.import
+*.translation
+
+# Imported assets
+*.blend
+*.fbx
+*.dae
+*.obj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
